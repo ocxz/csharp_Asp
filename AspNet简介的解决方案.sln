@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_初始Asp", "_01_初始Asp\_01_初始Asp.csproj", "{B994A618-DF9A-4F1E-BC8A-712EA3CCE26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_字符串拼接方式实现数据增删改", "_02_字符串拼接方式实现数据增删改\_02_字符串拼接方式实现数据增删改.csproj", "{B8332156-2E3E-4246-92E7-7F78B9F8EDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B994A618-DF9A-4F1E-BC8A-712EA3CCE26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B994A618-DF9A-4F1E-BC8A-712EA3CCE26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B994A618-DF9A-4F1E-BC8A-712EA3CCE26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B994A618-DF9A-4F1E-BC8A-712EA3CCE26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8332156-2E3E-4246-92E7-7F78B9F8EDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8332156-2E3E-4246-92E7-7F78B9F8EDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8332156-2E3E-4246-92E7-7F78B9F8EDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8332156-2E3E-4246-92E7-7F78B9F8EDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BA5533-B949-483C-ABF7-388568CC7E28}
+	EndGlobalSection
+EndGlobal
